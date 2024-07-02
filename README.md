@@ -1,3 +1,23 @@
+### Hi there 👋, my name is Md Abu Sufian Jidan
+#### Passionate Web Developer | JavaScript Enthusiast | Lifelong Learner
+![Passionate Web Developer | JavaScript Enthusiast | Lifelong Learner](https://i.ibb.co/s9YPhfb/side-shot-code-editor-using-react-js.jpg)
+
+I am a passionate web developer in modern web technologies. I specialize in building dynamic, responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React. I am proficient in styling with Tailwind CSS and Daisy UI, and I have experience working with backend technologies like Node.js, Express.js, and MongoDB. Additionally, I leverage Firebase for building scalable and secure applications. I'm always eager to learn and explore new technologies to enhance my development skills.
+
+
+Skills:  HTML / CSS / JS / REACT / 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Sufian-jidan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-abu-sufian-jidan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100063493051408)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Md-Sufian-jidan)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Sufian-jidan)  
+
+
+
+
 # Current Stats
 
 <img width="100%" height="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Sufian-jidan&theme=blue-green&hide_border=true">
