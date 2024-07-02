@@ -1,15 +1,19 @@
 # Current Stats
 
-<img width="100%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Sufian-jidan&theme=blue-green&hide_border=true">
-
-# Tecnologies that i use
-
-<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img width="100%" height="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Sufian-jidan&theme=blue-green&hide_border=true">
 
 ## Technologies I Use
+
+<div style="display: grid; grid-template-column: 3;">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
+<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
+<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
+<img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
+<img width="50px" height="50px" src="https://www.gstatic.com/devrel-devsite/prod/v500a014e54422a759bc3bfc7e4b1668d0ea8c90f8e1a6ae8e3e6b8d09b74b06e/firebase/images/touchicon-180.png" alt="Firebase" />
+<img width="50px" height="50px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo.svg" alt="Tailwind CSS" />
+<img width="50px" height="50px" src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/express-facebook-share.png" alt="Express js" />
+<img width="50px" height="50px" src="https://nodejs.org/static/images/logo.svg" alt="Node js" />
+</div>
 
 
 <table style="border: none;">
