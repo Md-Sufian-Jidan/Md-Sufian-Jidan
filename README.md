@@ -1,3 +1,7 @@
+# Current Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Sufian-jidan&theme=blue-green&hide_border=true">
+
 - 👋 Hi, I’m @Md-Sufian-Jidan
   
 - 💻 Junior Web Developer
