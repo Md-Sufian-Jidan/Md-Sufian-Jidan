@@ -2,8 +2,17 @@
 
 <img width="100%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Sufian-jidan&theme=blue-green&hide_border=true">
 
+# Tecnologies that i use
+
+![HTML5]() <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+
+
+
+# Current Overview
 - 👋 Hi, I’m @Md-Sufian-Jidan
-  
 - 💻 Junior Web Developer
 - 😊 I’m interested in Programming
 - 🎓 Completed a 6-month Web Development course
