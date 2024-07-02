@@ -5,15 +5,15 @@
 
 ## Technologies I Use
 
-<div>
-- <img width="10px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
-- <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
-- <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
-- <img width="100px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
-- <img width="100px" height="100px" src="https://www.gstatic.com/devrel-devsite/prod/v500a014e54422a759bc3bfc7e4b1668d0ea8c90f8e1a6ae8e3e6b8d09b74b06e/firebase/images/touchicon-180.png" alt="Firebase" />
-- <img width="100px" height="100px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo.svg" alt="Tailwind CSS" />
-- <img width="100px" height="100px" src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/express-facebook-share.png" alt="Express js" />
-- <img width="100px" height="100px" src="https://nodejs.org/static/images/logo.svg" alt="Node js" />
+<div style="width: full ;display: flex; justify-content: center; align-items: center; flex-grow: 1;">
+<img width="150px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
+<img width="150px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" />
+<img width="150px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
+<img width="150px" height="100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
+<img width="150px" height="100px" src="https://www.gstatic.com/devrel-devsite/prod/v500a014e54422a759bc3bfc7e4b1668d0ea8c90f8e1a6ae8e3e6b8d09b74b06e/firebase/images/touchicon-180.png" alt="Firebase" />
+<img width="150px" height="100px" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo.svg" alt="Tailwind CSS" />
+<img width="150px" height="100px" src="https://raw.githubusercontent.com/expressjs/expressjs.com/gh-pages/images/express-facebook-share.png" alt="Express js" />
+<img width="150px" height="100px" src="https://nodejs.org/static/images/logo.svg" alt="Node js" />
 </div>
 
 
