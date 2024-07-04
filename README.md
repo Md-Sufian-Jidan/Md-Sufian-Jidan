@@ -42,7 +42,6 @@ Skills:  HTML / CSS / JS / REACT / Tailwind Css / Express js / Node js / Mongodb
 - 🌐 Passionate about creating dynamic and responsive websites
 - 💡 Skills: HTML, CSS, JavaScript, React, Node.js
 - 🚀 Currently i am not exploring.Because of exam is running.But after 12/08/2024 i will explore next js. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on this email : jidanjiyaj03@gmail.com
 - 👀 I'm looking to collaborate with interns passionate about web development!
 
