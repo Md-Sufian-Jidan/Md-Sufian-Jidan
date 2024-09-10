@@ -1,7 +1,8 @@
 ## Hi there 👋, my name is Md Abu Sufian Jidan
 #### Passionate Web Developer | JavaScript Enthusiast | Lifelong Learner
 
-<img width="100%" height="400px" src="https://media.licdn.com/dms/image/D4D16AQEgV3mUAW3dKw/profile-displaybackgroundimage-shrink_350_1400/0/1714654564234?e=1725494400&v=beta&t=8xBDDdcLn4AbdYaiEpGYc24SDREOcAWHEC1IqXRIfaI" alt="banner image" />
+
+<img width="100%" height="400px" src="https://media.licdn.com/dms/image/v2/D4D35AQFcAw8u-8Zbfg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1720258714930?e=1726596000&v=beta&t=qOPQe9vzRmt0vfEYNnT07bOB75CA8G5mBPUC4PVBASE" alt="banner image" />
 
 I am a passionate web developer in modern web technologies. I specialize in building dynamic, responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React. I am proficient in styling with Tailwind CSS and Daisy UI, and I have experience working with backend technologies like Node.js, Express.js, and MongoDB. Additionally, I leverage Firebase for building scalable and secure applications. I'm always eager to learn and explore new technologies to enhance my development skills.
 
