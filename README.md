@@ -2,7 +2,7 @@
 #### Passionate Web Developer | JavaScript Enthusiast | Lifelong Learner
 
 
-<img width="90%" height="400px" src="https://i.imgur.com/CSlGleo.jpeg" alt="banner image" />
+<img width="90%" height="400px" src="https://i.imgur.com/U68NQvd.png" alt="banner image" />
 
 I am a passionate web developer in modern web technologies. I specialize in building dynamic, responsive web applications using HTML5, CSS3, JavaScript, and frameworks like React. I am proficient in styling with Tailwind CSS and Daisy UI, and I have experience working with backend technologies like Node.js, Express.js, and MongoDB. Additionally, I leverage Firebase for building scalable and secure applications. I'm always eager to learn and explore new technologies to enhance my development skills.
 
