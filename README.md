@@ -63,13 +63,13 @@ I love learning new technologies, solving real-world problems, and turning ideas
 My personal portfolio built with React, Tailwind CSS, and Vite.  
 A responsive and professional site showcasing my best work.
 
-### 💳 [Your Stripe Project Name]
+### 💳 [LuxeMatches]
 A web app with secure Stripe payment integration.  
-[Live Demo](#) | [GitHub Repo](#)
+[Live Demo](https://luxe-matches-client.vercel.app/) | [GitHub Repo](https://github.com/Md-Sufian-Jidan/luxe-matches-client)
 
-### 📲 [Your Full Stack MERN App]
+### 📲 [WorkNest]
 Built with React + Node.js + Express + MongoDB. Features authentication, REST APIs, and mobile responsiveness.  
-[Live Demo](#) | [GitHub Repo](#)
+[Live Demo](https://work-nest-client.web.app/) | [GitHub Repo](https://github.com/Md-Sufian-Jidan/work-nest-client)
 
 ---
 
@@ -84,7 +84,7 @@ Built with React + Node.js + Express + MongoDB. Features authentication, REST AP
 
 ## ⚡ A Little About Me
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently learning **Next.js**
 - 🧠 Always exploring **UI libraries** and best practices
 - 🤝 Looking for a **remote internship or junior dev job**
 - 💡 I love solving problems and building real-world apps
