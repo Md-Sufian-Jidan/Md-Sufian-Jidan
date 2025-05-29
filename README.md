@@ -57,6 +57,16 @@ I love learning new technologies, solving real-world problems, and turning ideas
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Md-Sufian-Jidan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Md-Sufian-Jidan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sufian-Jidan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Md-Sufian-Jidan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 🚀 Projects I'm Proud Of
 
 ### 🌐 [Portfolio Website](https://portfolio-1-theta-ebon.vercel.app)
